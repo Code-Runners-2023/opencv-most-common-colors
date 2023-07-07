@@ -1,0 +1,5 @@
+pip install numpy
+pip install opencv-contrib-python
+pip install -U scikit-learn
+pip install flask
+pip install flask_restful
